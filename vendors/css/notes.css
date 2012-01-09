@@ -1,0 +1,8 @@
+#note-view ol, #note-view ul {
+	list-style: circle inside none;
+}
+
+#note-view li {
+	margin: auto !important;
+	padding: 1px;
+}
